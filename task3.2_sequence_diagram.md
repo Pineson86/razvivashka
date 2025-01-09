@@ -1,4 +1,4 @@
-#Sequence diagram
+# Sequence diagram
 
 @startuml
 
